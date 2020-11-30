@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python3, on Welcome to Fei&#39;s Blog</title>
+    <link>https://afei418.github.io/tags/python3/</link>
+    <description>Recent content in python3, on Welcome to Fei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;Afei 2020</copyright>
+    <lastBuildDate>Mon, 30 Nov 2020 18:17:42 +0800</lastBuildDate><atom:link href="https://afei418.github.io/tags/python3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solus Py2_3 Miss</title>
+      <link>https://afei418.github.io/posts/solus-py2_3-miss/</link>
+      <pubDate>Mon, 30 Nov 2020 18:17:42 +0800</pubDate>
+      
+      <guid>https://afei418.github.io/posts/solus-py2_3-miss/</guid>
+      <description>笔记本上的系统，从出厂预置的Ubuntu16.04,到后来的Linux mint Debian edition，在到后来的Solus，兜转了几个来回。本着不折腾的</description>
+    </item>
+    
+  </channel>
+</rss>
